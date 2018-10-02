@@ -5,3 +5,5 @@
 /.vs/AutoMapping/v15/Server/sqlite3/storage.ide-wal
 /AutoMapping/obj/Debug/netstandard2.0
 /AutoMapping/obj
+/AutoMappingTests/obj
+/AutoMappingTests/bin
